@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="subPages.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <a href="index.html">
+            <img src=".\spacex.png" alt="Logo da spacex">
+        </a>
+        <a href="spaceships.html">| The Spaceships |</a>
+        <a href="hire_us.html">Hire Us</a>
+        <hr />
+    </header>
+    <main>
+        <div>
+            <h2>Hire Us Now!</h2>
+            <p>Leave a message to request one of our services and we will
+                get back you as soon as possible.
+            </p>
+            <br />
+            <br />
+        </div>
+        <div>
+            <form>
+                <label for="name">Nome:</label>
+                <input type="text" id="name" name="name">
+                <label for="email">-Email:</label>
+                <input type="email" id="email" name="email">
+                <br />
+            </form>
+        </div>
+        <div>
+            <br />
+            <br />
+            <form>
+                <label for="spaceship">Spaceship:</label>
+                <select id="spaceship" name="spaceship">
+                    <option value="falcon9">Falcon 9</option>
+                    <option value="falconheavy">FALCON HEAVY</option>
+                </select>
+                <label for="services"> | Type Of Services
+                <input list="services">
+                <datalist id="services">
+                    <option value="Lançamentos de satélites">
+                    <option value="Transporte de carga para a ISS">
+                    <option value="Transporte de astronautas para a ISS">
+                    <option value="Starlink">
+                </datalist>
+                </label>
+            </form>
+        </div>
+        <div>
+            <br />
+            <br />
+            <label for="submit"></label>
+            <input type="submit" id="submit" name="submit" value="Send Message">
+        </div>
+    </main>
+</body>
+</html>
