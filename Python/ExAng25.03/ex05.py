@@ -6,7 +6,6 @@ while True:
     e = float(input("Digite o valor de e: "))
     f = float(input("Digite o valor de f: "))
 
-    # Verifica se todos os coeficientes a, b, c e d são iguais a zero
     if a == 0 and b == 0 and c == 0 and d == 0:
         print("Leitura de coeficientes interrompida.")
         break
