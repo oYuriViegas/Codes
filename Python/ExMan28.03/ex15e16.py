@@ -5,17 +5,17 @@ def converter_unidades(num):
 
 def converter_dezenas(num):
     dezenas = ["dez", "onze", "doze", "treze", "quatorze", "quinze",
-               "dezesseis", "dezessete", "dezoito", "dezenove"]
+            "dezesseis", "dezessete", "dezoito", "dezenove"]
     return dezenas[num - 10]
 
 def converter_dezenas_multiplos(num):
     dezenas_multiplos = ["", "", "vinte", "trinta", "quarenta", "cinquenta",
-                         "sessenta", "setenta", "oitenta", "noventa"]
+                        "sessenta", "setenta", "oitenta", "noventa"]
     return dezenas_multiplos[num]
 
 def converter_centenas_multiplos(num):
     centenas_multiplos = ["", "cento", "duzentos", "trezentos", "quatrocentos",
-                          "quinhentos", "seiscentos", "setecentos", "oitocentos", "novecentos"]
+                        "quinhentos", "seiscentos", "setecentos", "oitocentos", "novecentos"]
     return centenas_multiplos[num]
 
 def numero_por_extenso(num):
