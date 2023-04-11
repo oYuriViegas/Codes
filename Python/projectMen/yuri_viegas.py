@@ -21,7 +21,7 @@ while True:
         print("1 - Registrar venda")
         print("2 - Encerrar e mostrar resumo")
         print("3 - Alterar senha")
-        opcao = input("Escolha uma opção (1 ou 2): ")
+        opcao = input("Escolha uma opção: ")
 
         if opcao == "1":
             nome_item = input("Digite o nome do item vendido: ")
