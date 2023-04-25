@@ -6,9 +6,9 @@ while True:
     notas.append(valorNota)
     soma += valorNota
     option = input('Deseja cadastrar outra nota <S/N>:')
-    if option == 'S' or option == 's':
+    if option in ['S', 's']:
         continue
-    elif option == 'N' or option == 'n':
+    elif option in ['N', 'n']:
         break
 
 tam = len(notas)
