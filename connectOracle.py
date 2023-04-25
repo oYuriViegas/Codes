@@ -30,11 +30,11 @@ cursor.execute("""
 
 # Insert some data
 
-rows = [ ("Task 1", 0 ),
-         ("Task 2", 0 ),
-         ("Task 3", 1 ),
-         ("Task 4", 0 ),
-         ("Task 5", 1 ) ]
+rows = [("Task 1", 0 ),
+        ("Task 2", 0 ),
+        ("Task 3", 1 ),
+        ("Task 4", 0 ),
+        ("Task 5", 1 ) ]
 
 cursor.executemany("insert into todoitem (description, done) values(:1, :2)", rows)
 print(cursor.rowcount, "Rows Inserted")
