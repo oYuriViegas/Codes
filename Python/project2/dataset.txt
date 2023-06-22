@@ -1,0 +1,20 @@
+Descrição do tema e dataset rascunho:
+
+Integrantes:
+Nina Fernandes da Cunha Canto
+Yuri Rodrigues Viegas
+
+O tema escolhido foi: Video Games.
+
+|games: dados|
+
+Títulos: [The Legend of Zelda: Breath of the Wild, Elden Ring, The Sims 4, The Witcher 3: Wild Hunt, Cyberpunk 2077, Red Dead Redemption 2, Uncharted 4: A Thief's End, God of War, Overwatch, Mario Kart 8 Deluxe, Final Fantasy VII Remake, Resident Evil Village]
+Plataformas: [Nintendo Switch, PC, Playstation 4, Xbox One, Playstation 5, Xbox Series]
+Gêneros: [Ação, Aventura, Exploração, RPG, Mundo Aberto, SoulsLike, Simulação, Estratégia, Vida Virtual, Western, Tiro, Multiplayer, Corrida, Terror]
+Anos de Lançamento: [2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022]
+Classificação Etária: [Livre, 12+, 16+, 18+]
+Desenvolvedores: [Nintendo, FromSoftware, Maxis, CD Projekt, Rockstar Games, Naughty Dog, Capcom, Square Enix, Blizzard Entertainment, Santa Monica Studio]
+Preços: [400, 250, 200, 220, 150, 300]
+Tempos de Jogo: [Infinito, 10, 15, 25, 40, 50, 58, 60, 70]
+Multiplayer: [True, False]
+Avaliações Metacritic: [70, 75, 84, 87, 91, 92, 93, 96, 97]

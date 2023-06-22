@@ -1,0 +1,10 @@
+Diário de Bordo - Projeto Final
+27/05/2023 09:00: Yuri Viegas e Nina Canto: O dia foi iniciado com o objetivo de criar uma base de dados sobre videogames, estruturada e organizada com uma lista de dicionários em Python.
+
+27/05/2023 09:30: Nina Canto: Os campos para nossos dicionários foram definidos. Incluímos 'título', 'plataforma', 'gênero', 'ano de lançamento', 'classificação etária', 'desenvolvedor', 'preço', 'tempo de jogo', 'multiplayer' e 'avaliação metacritic'.
+
+27/05/2023 10:00: Yuri Viegas: As informações referentes ao primeiro jogo "The Legend of Zelda: Breath of the Wild" foram inseridas.
+
+27/05/2023 12:00: Yuri Viegas e Nina Canto: Após o almoço, retomamos a inserção de dados. Adicionamos informações sobre diversos jogos diferentes, incluindo "Elden Ring", "The Sims 4", "The Witcher 3: Wild Hunt", "Cyberpunk 2077", e "Red Dead Redemption 2".
+
+27/05/2023 14:00: Yuri Viegas e Nina Canto: Continuamos inserindo dados na parte da tarde. Adicionamos mais jogos, incluindo "Uncharted 4: A Thief's End", "God of War", "Overwatch", "Mario Kart 8 Deluxe", "Final Fantasy VII Remake", e "Resident Evil Village". Nosso trabalho foi concluído. Finalizamos o dataset e o diáriuo de bordo.
